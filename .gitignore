@@ -1,0 +1,6 @@
+.coop5100/
+.local-coop/
+.build-tools/
+__pycache__/
+build/
+dist/
